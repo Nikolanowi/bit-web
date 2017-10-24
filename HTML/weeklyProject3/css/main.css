@@ -1,7 +1,9 @@
 body {
   font-family: 'Lato', sans-serif;
   color: white; }
-
+.ml-auto{
+  margin-left: auto;
+}
 .black {
   background-color: #2c3e50; }
 
